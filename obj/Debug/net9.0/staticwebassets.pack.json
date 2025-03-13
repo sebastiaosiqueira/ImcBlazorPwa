@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\Components\\Dialog.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Dialog.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Imc.styles.css",
+      "PackagePath": "staticwebassets\\Imc.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\android-icon-144x144.png",
+      "PackagePath": "staticwebassets\\imgs\\android-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\android-icon-192x192.png",
+      "PackagePath": "staticwebassets\\imgs\\android-icon-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\android-icon-36x36.png",
+      "PackagePath": "staticwebassets\\imgs\\android-icon-36x36.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\android-icon-48x48.png",
+      "PackagePath": "staticwebassets\\imgs\\android-icon-48x48.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\android-icon-72x72.png",
+      "PackagePath": "staticwebassets\\imgs\\android-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\android-icon-96x96.png",
+      "PackagePath": "staticwebassets\\imgs\\android-icon-96x96.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-114x114.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-120x120.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-144x144.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-152x152.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-152x152.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-180x180.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-180x180.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-57x57.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-60x60.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-60x60.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-72x72.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-76x76.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-76x76.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon-precomposed.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\apple-icon.png",
+      "PackagePath": "staticwebassets\\imgs\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\imgs\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\imgs\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\favicon-96x96.png",
+      "PackagePath": "staticwebassets\\imgs\\favicon-96x96.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\favicon.ico",
+      "PackagePath": "staticwebassets\\imgs\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\favicon.png",
+      "PackagePath": "staticwebassets\\imgs\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\icon-no-bg.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-no-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\icon.png",
+      "PackagePath": "staticwebassets\\imgs\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\ms-icon-144x144.png",
+      "PackagePath": "staticwebassets\\imgs\\ms-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\ms-icon-150x150.png",
+      "PackagePath": "staticwebassets\\imgs\\ms-icon-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\ms-icon-310x310.png",
+      "PackagePath": "staticwebassets\\imgs\\ms-icon-310x310.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\imgs\\ms-icon-70x70.png",
+      "PackagePath": "staticwebassets\\imgs\\ms-icon-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\Imc\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Imc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Imc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Imc.props",
+      "PackagePath": "build\\Imc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Imc.props",
+      "PackagePath": "buildMultiTargeting\\Imc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Imc.props",
+      "PackagePath": "buildTransitive\\Imc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

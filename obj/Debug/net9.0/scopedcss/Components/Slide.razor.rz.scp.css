@@ -1,0 +1,19 @@
+﻿.slide[b-7o6h9icpqr] {
+    text-align: center;
+    scroll-snap-align: center;
+    flex: none;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.slide:nth-child(even)[b-7o6h9icpqr] {
+    background-color: #F6F6F6;
+}
+
+.slide:nth-child(odd)[b-7o6h9icpqr] {
+    background-color: #FFFFFF;
+}

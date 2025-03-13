@@ -1,0 +1,43 @@
+/* Listas */
+.list-unstyled[b-7lgk6u0g0v] {
+    list-style: none;
+}
+
+.list-item[b-7lgk6u0g0v] {
+    width: 100%;
+    padding-top: 16px;
+    display: flex;
+    flex-direction: row;
+}
+
+.list-item-image[b-7lgk6u0g0v] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list-item-image img[b-7lgk6u0g0v] {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.list-item-description[b-7lgk6u0g0v] {
+    text-align: left;
+}
+
+.list-item-description-title[b-7lgk6u0g0v] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 16px 0 16px;
+}
+
+.list-item-description-title h4[b-7lgk6u0g0v] {
+    margin: 0;
+}
+
+.list-item-description-text[b-7lgk6u0g0v] {
+    padding: 0 16px 16px 16px;
+    border-bottom: 1px solid #E8E8E8;
+}
